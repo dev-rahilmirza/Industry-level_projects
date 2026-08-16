@@ -3,7 +3,8 @@
 A real-time facial emotion detection system built with OpenCV and Keras. It uses your webcam to detect faces and classify emotions live using a pre-trained deep learning model — no third-party services like DeepFace required.
 
 ---
-<img width="813" height="646" alt="Screenshot 2026-02-20 143447" src="https://github.com/user-attachments/assets/f338297c-dd42-428c-8413-4481d510f98d" />
+<img width="1899" height="964" alt="image" src="https://github.com/user-attachments/assets/e0227f69-141e-43dd-8ae5-fdb177c0a7e7" />
+
 
 
 ## 🎯 Features
